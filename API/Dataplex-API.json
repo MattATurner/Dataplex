@@ -2188,9 +2188,10 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "1c2c9f08-6e65-4e28-86f6-4622aa1898a5",
+				"id": "99eb1c5e-8152-4eee-b281-5cdc188dccba",
 				"type": "text/javascript",
 				"packages": {},
+				"requests": {},
 				"exec": [
 					""
 				]
@@ -2199,9 +2200,10 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "2b68c7c1-978c-4a81-8574-a7f01bfb91aa",
+				"id": "ec360822-2843-4846-82dd-30f3d36c2955",
 				"type": "text/javascript",
 				"packages": {},
+				"requests": {},
 				"exec": [
 					""
 				]
@@ -2216,6 +2218,9 @@
 		{
 			"key": "client_secret",
 			"value": "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"
+		},
+		{
+			"value": ""
 		}
 	]
 }
